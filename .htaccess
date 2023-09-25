@@ -1,0 +1,6 @@
+Options All -Indexes
+
+ErrorDocument 400 http://localhost/hotel/errores/400.php
+ErrorDocument 403 http://localhost/hotel/errores/403.php
+ErrorDocument 404 http://localhost/hotel/errores/404.php
+ErrorDocument 500 http://localhost/hotel/errores/500.php
